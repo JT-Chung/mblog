@@ -10,7 +10,7 @@
       >
         <MenuItem name="0" to="/">
           <Icon type="md-paper-plane" style="font-size: 16px" />
-          iicy(推荐PC端打开)
+          IICY(适应PC端)
         </MenuItem>
 
         <MenuItem name="2" to="/">
