@@ -10,7 +10,7 @@
       >
         <MenuItem name="0" to="/">
           <Icon type="md-paper-plane" style="font-size: 16px" />
-          我叫神明，以前叫Xavier(推荐PC端打开)
+          iicy(推荐PC端打开)
         </MenuItem>
 
         <MenuItem name="2" to="/">
